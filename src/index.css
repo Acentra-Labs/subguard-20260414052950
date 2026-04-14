@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-900: #0a1628;
+  --color-navy-800: #111d32;
+  --color-navy-700: #1a2a45;
+  --color-electric: #3b82f6;
+  --color-accent-cyan: #22d3ee;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
